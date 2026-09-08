@@ -1,0 +1,8 @@
+2026-09-08 14:43:44,811 - INFO - Job started
+2026-09-08 14:43:44,813 - INFO - Read 8 employee records
+2026-09-08 14:43:44,813 - INFO - Report generated successfully
+2026-09-08 14:43:44,813 - INFO - Output file: output/employee_report.csv
+2026-09-08 15:24:30,193 - INFO - Job started
+2026-09-08 15:24:30,193 - INFO - Read 8 employee records
+2026-09-08 15:24:30,193 - INFO - Report generated successfully
+2026-09-08 15:24:30,193 - INFO - Output file: output/employee_report.csv
